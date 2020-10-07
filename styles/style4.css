@@ -1,0 +1,35 @@
+﻿body {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    min-height: 105vh;
+    position: relative;
+    margin: 0;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.bg-mine {
+    background-color: teal !important;
+    border-style: solid;
+    border-color: teal !important;
+}
+
+img {
+    height: 100vh !important;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    position: absolute;
+    bottom: 0;
+}
